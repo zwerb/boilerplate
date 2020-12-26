@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate - Full Stack Javascript / ES6 - React - Redux - DB - Sockets - Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwerb/boilerplate.git"
+  },
+  "author": "Zwerb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zwerb/boilerplate/issues"
+  },
+  "homepage": "https://github.com/zwerb/boilerplate#readme"
+}
